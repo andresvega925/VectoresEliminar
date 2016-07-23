@@ -8,6 +8,7 @@ public class logica {
 	private int arrUno[];
 	private int tamaño, borrar;
 	private Scanner sc;
+	private int git;
 
 
 	public logica(){
